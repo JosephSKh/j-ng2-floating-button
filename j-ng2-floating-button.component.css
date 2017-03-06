@@ -1,0 +1,4 @@
+.floating-btn{cursor: pointer; background: #9E9E9E; width: 60px; height: 60px; position: fixed; opacity: 1; right: 50px; bottom: 50px; border: none; color: #fff; border-radius: 50%; font-size: 22px; transition: all 0.2s linear; opacity: 0; outline: none}
+.floating-btn.visible{opacity: 1}
+.floating-btn:hover{box-shadow: 3px 3px 7px rgba(0,0,0,0.2);}
+.floating-btn > span{position: relative;top: -2px;}

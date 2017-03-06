@@ -1,0 +1,27 @@
+{
+  "name": "j-ng2-floating-button",
+  "version": "1.0.0",
+  "description": "Floating material design button component for Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JosephSKh/j-ng2-floating-button/"
+  },
+  "keywords": [
+    "angular2",
+    "ng2",
+    "floating",
+    "button",
+    "material",
+    "design",
+    "google",
+    "scroll",
+    "component",
+    "plugin"
+  ],
+  "author": "Joseph Khella",
+  "license": "MIT"
+}
